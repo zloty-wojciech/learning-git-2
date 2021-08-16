@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-size: 20px;
+    line-height: 1.7;
+}
+
+.container {
+    max-width: 1140px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+section {
+    padding: 50px 0;
+}
+
+.song-title {
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0 0 15px 0;
+}
+
+.song-author {
+    font-style: italic;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 0 50% 0 0;
+    padding: 20px 0;
+}
